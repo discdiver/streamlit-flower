@@ -15,8 +15,7 @@ In your terminal, list the packages in your virtual environments.
 
 If you don't see streamlit and plotly, then install them.
 
-`pip install streamlit`
-`pip install plotly`
+`pip install streamlit plotly`
 
 ## Create a Streamlit app
 
